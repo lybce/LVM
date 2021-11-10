@@ -1,0 +1,19 @@
+{
+    "external_reference": "30*RELEQRABC5",
+    "title": "Alquiler de TV",
+    "description": "Mercado Pago",
+    "notification_url": "http://www.lybce.com.ar/LVM/MP/ipn.php?NC=72961415",
+      "total_amount": 1.35,
+      "items":[
+    {
+       "title": "Alquiler de TV",
+      "description": "24 Hs de TV",
+      "image":"http://www.lybce.com.ar/LVM/TV.jpg",
+      "unit_price": 1.35,
+      "quantity": 1,
+      "unit_measure": "unit",
+      "total_amount": 1.35
+    }
+  ]
+
+}
